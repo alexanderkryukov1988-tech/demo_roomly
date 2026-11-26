@@ -1,0 +1,14 @@
+{
+  "form": "#booking-form",
+  "room_select": "#room",
+  "date_input": "#date",
+  "start_time_input": "#start-time",
+  "end_time_input": "#end-time",
+  "participants_input": "#participants",
+  "name_input": "#name",
+  "email_input": "#email",
+  "submit_button": "button.submit-button",
+  "form_status": "#form-status",
+  "field_error": "[data-error-for=\"{name}\"]",
+  "error_field": ".field.has-error"
+}
